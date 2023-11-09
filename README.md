@@ -1,1 +1,2 @@
-
+Description
+Welcome to the repository for my Face Recognition App! Developed with Python for backend processing and HTML/CSS for the frontend, this application leverages cutting-edge facial recognition technology to identify and analyze faces. Whether you're curious about the code behind the algorithms or eager to integrate facial recognition into your projects, this repo is your go-to resource. Explore, learn, and contribute to the future of facial recognition technology!
